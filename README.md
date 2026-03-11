@@ -3,4 +3,4 @@
 <p>🖥️ Back-end Developer</a></p>
 <hr>
 
-[![My Skills](https://skillicons.dev/icons?i=java,php,python,laravel,spring,aws,postgresql,mysql,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,postgresql,mysql,docker)](https://skillicons.dev)
