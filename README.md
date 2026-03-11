@@ -1,4 +1,4 @@
-<p>👨‍💻 Learning Spring and Laravel</p>
+<p>👨‍💻 Learning Spring</p>
 <p>🎓 Student in Systems Analysis and Development</a></p>
 <p>🖥️ Back-end Developer</a></p>
 <hr>
